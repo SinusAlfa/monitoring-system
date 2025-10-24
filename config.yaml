@@ -1,0 +1,2 @@
+interval: 30
+endpoint: http://localhost:8080/health
